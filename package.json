@@ -1,0 +1,27 @@
+{
+  "name": "twitchdiscordbot",
+  "version": "1.0.0",
+  "description": "Bot For Discord",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chillexer/TwitchDiscordBot.git"
+  },
+  "author": "Frederik Nielsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chillexer/TwitchDiscordBot/issues"
+  },
+  "homepage": "https://github.com/Chillexer/TwitchDiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "discord.js-music": "^1.0.3",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "opusscript": "0.0.4",
+    "youtube-dl": "^1.12.2"
+  }
+}
